@@ -1,13 +1,16 @@
- function a(){
-            var b=document.getElementById("kisaKenar").value;
-            var c=document.getElementById("uzunKenar").value;
-            kk=Number(b);
-            uk=Number(c);
-            var dAlan=kk*uk;
-            var dCevre=2*(kk+uk);
-            document.getElementById("alan").innerHTML="d : " + dAlan;
-            document.getElementById("cevre").innerHTML="c : " + dCevre;
-        }
-        
-        var hspBtn=document.getElementById("a");
-        hesapla.onclick=a;
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+document.write('<span style="font-size: 100px; line-height: 50px;">E<span style="font-size: 150px; line-height: 50px;">I<span style="font-size: 200px; line-height: 50px;">X</span></span> <span style="font-size: 200px; line-height: 50px;">WALLET</span></span>');
+
