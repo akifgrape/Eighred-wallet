@@ -13,4 +13,4 @@
 
 ![Screenshot of location data tab](https://github.com/akifgrape/eixwallet/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-03-28%20181149.png)
 
-## Made for eighred by akif grape ⚒
+## Made for eighred by Creator and developer [Akif Garpe](https://github.com/akifgrape) 🔥
