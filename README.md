@@ -1,9 +1,9 @@
 # Eighred Wallet
-s
- Eighred Wallet is a universal multi-platform (mobile/web/extension) crypto wallet.
- Use Eighred Wallet to easily access 3000+ coins and thousands of DApps and web3 ecosystem.
+
+Eighred Wallet is a universal multi-platform (mobile/web/extension) crypto wallet.
+Use Eighred Wallet to easily access 3000+ coins and thousands of DApps and web3 ecosystem.
  
- This wallet enables you to store, manage, and transact with Ethereum and many other cryptocurrencies.
+This wallet enables you to store, manage, and transact with Ethereum and many other cryptocurrencies.
 
 ## Installation
 To start using the wallet, you need to install it as a browser extension.
