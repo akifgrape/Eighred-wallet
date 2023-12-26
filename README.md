@@ -26,4 +26,4 @@ If you have any questions or need help, feel free to contact us.
   <img src="https://github.com/akifgrape/eighred-wallet/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-03-28%20181149.png" style="float:right"/>
 </p>
 
-## Made for eighred by Creator and developer [Akif Garpe](https://github.com/akifgrape) 🔥
+## Made for eighred by Creator and developer [Akif Grape](https://github.com/akifgrape) 🔥
